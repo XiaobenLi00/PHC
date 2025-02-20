@@ -6,7 +6,7 @@ notes:  "Progressive MCP without softmax, zero out far"
 motion_file: ""
 num_envs: 1024
 env_spacing: 2
-episode_length: 300
+episode_length: 1000
 is_flag_run: False
 enable_debug_vis: False
 sym_loss_coef: 1
